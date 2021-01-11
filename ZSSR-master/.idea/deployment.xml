@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="dorelkab@132.72.66.172:22" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="dorelkab@132.72.40.191:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/dorelkab/tmp/temp2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dorelkab@132.72.66.172:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/dorelkab/tmp/temp2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dorelkab@132.72.67.156:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dorelkab@132.72.67.167:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dorelkab@132.72.80.123:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dorelkab@132.72.80.125:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/dorelkab/tmp/temp2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
